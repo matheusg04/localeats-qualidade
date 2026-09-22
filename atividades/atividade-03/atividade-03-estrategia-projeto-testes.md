@@ -174,6 +174,4 @@ A tabela de decisão é adequada porque o comportamento do pedido depende da com
 
 **Como foi utilizada:** Foi utilizada como apoio para sugerir riscos, comparar técnicas de teste, organizar os casos de teste e revisar a clareza do documento.
 
-**Uma sugestão que precisou ser alterada ou rejeitada:** As sugestões foram adaptadas para considerar somente situações relacionadas ao fluxo de fazer pedido do LocalEats.
-
 **Como as respostas foram verificadas:** As decisões foram comparadas com o enunciado da atividade e com as situações observadas diretamente no LocalEats.
